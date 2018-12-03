@@ -1,0 +1,27 @@
+{
+  "name": "qa-automation-assignment-hovkar",
+  "version": "1.0.0",
+  "description": "### Acceptance Criteria",
+  "main": "wdio.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vineti-Internship/qa-automation-assignment-HovKar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vineti-Internship/qa-automation-assignment-HovKar/issues"
+  },
+  "homepage": "https://github.com/Vineti-Internship/qa-automation-assignment-HovKar#readme",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.6.4",
+    "wdio-selenium-standalone-service": "0.0.11",
+    "webdriverio": "^4.14.1"
+  }
+}
